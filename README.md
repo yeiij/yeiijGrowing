@@ -2,7 +2,7 @@
 Standalone Addon for Arma 3
 
 ## What this does?
-The addon add actions in the mouse wheel that spawns plants to simulate a growing system
+The addon add actions in the mouse wheel that spawns plants to simulate a growing system (only for civilian)
  - Apple
  - Banana
  - Coca
