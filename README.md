@@ -10,7 +10,7 @@ The addon add actions in the mouse wheel that spawns plants to simulate a growin
  - Opio
  - Weed
  
- Those plants models may not be the best models but atleast you wont require any addon
+Those plants models may not be the best models but at least you don't require any addon
 
 ## How i do install this?
  1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijGrowing/releases)
