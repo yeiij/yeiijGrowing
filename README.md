@@ -32,3 +32,5 @@ remember load the mod on server start at -serverMods
 the addon contains a file named [config.sqf](https://github.com/yeiij/yeiijGrowing/blob/master/config/config.sqf) inside the folder config. You have to edit:
  - result on harvest the plant
 
+## Do you want to thank for my work?
+https://paypal.me/yeiij
